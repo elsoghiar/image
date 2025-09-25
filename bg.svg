@@ -9,7 +9,7 @@
     </mask>
   </defs>
 
-  <g fill="#a0a0a0" opacity="0.4" dominant-baseline="central" font-family="sans-serif" mask="url(#fadeMask)">
+  <g fill="#a0a0a0" opacity="0.25" dominant-baseline="central" font-family="sans-serif" mask="url(#fadeMask)">
     <text x="740" y="60" font-size="60" transform="rotate(-15 740,60)">~</text>
     <text x="670" y="100" font-size="40" transform="rotate(10 670,100)">~</text>
     <text x="600" y="80" font-size="50" transform="rotate(-20 600,80)">~</text>
